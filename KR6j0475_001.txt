@@ -1,21 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:16.934411
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:16
 #+TITLE: 北方毘沙門天王隨軍護法儀軌
 #+PROPERTY: CBETA_ID T21n1247
 #+PROPERTY: ID KR6j0475
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1247
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0475_T_000-0224c>¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0475_T_001-0224c> ¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.1247¶
-
- 北方毘沙門天王隨軍護法儀軌¶
+No. 1247¶
+北方毘沙門天王隨軍護法儀軌¶
 ¶
 特進試鴻臚卿大興善寺三藏¶
 沙門大廣智不空奉　詔譯¶
@@ -29,7 +28,7 @@ No.1247¶
 <pb:KR6j0475_T_001-0225a>¶
 以金剛杖刺其眼及其心。若為比丘比丘尼¶
 優婆塞優婆夷起不善心及殺害心者。亦以¶
-金剛棒打其頭。爾時毘沙門孫那吒。白佛言¶
+金剛捧打其頭。爾時毘沙門孫那吒。白佛言¶
 世尊。我為未來諸不善眾生。降伏攝縛皆悉¶
 滅散故。亦護持國界故。說自心暴惡真言。唯¶
 願世尊聽許。我說佛言善哉善哉那吒天王。¶
